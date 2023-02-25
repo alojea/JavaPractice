@@ -2,6 +2,10 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+* magic 8 ball to give different answers each time
+**/
+
 public class MagicEightBall {
 	
 	public static void main(String[] args) {
